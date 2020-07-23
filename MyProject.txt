@@ -3,7 +3,9 @@ The Link to My project is Given Below:
 http://casemgmt.epizy.com/lawyerProject/login.php
 
 
-You can go to the link to see my project.
-But first you signup to make the account, then you can go through all the other pages. "Make sure you do not use your original password, create totally different password"
+You can go through the link to see my project.
+But first you need to signup to make the account, then you can go through all the other pages. "Make sure you do not use your original password, create totally different password"
+
+
 This project is all about managing the tasks which the lawyers do like managing the cases, clients, junior lawyers working under them,
 And generating the invoices of the closed cases.
